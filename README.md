@@ -1,2 +1,2 @@
-# acoponia-
-sistema de automatizaçao da acoponia 
+# aquaponia-
+sistema de automatizaçao da aquaponia
